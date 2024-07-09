@@ -7,6 +7,3 @@ properties:
   myUrlProp: https://example.com
 relations:
   mySingleRelation: myTargetEntity
-  myManyRelation:
-    - myTargetEntity1
-    - myTargetEntity2
